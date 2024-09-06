@@ -1,3 +1,4 @@
+@echo off
 ::----Instructions-----
 echo Welcome to the MySQL installer for windows!
 timeout /t 1 /nobreak >nul
