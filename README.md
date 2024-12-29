@@ -1,5 +1,6 @@
 MySQL Installer For Windows aims to making bulk installation of MySQL easier for everyone.
 To Use the batch file, simply open it and follow its prompts.
+THis program may not work correctly on older WIndows computers(any version of windows released before Windows 10 2004 update).
 It is higly recommended that you check the license so you know your rights.
 
 
